@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArjNil
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning statistics
 - 💞️ I’m looking to collaborate on projects to grow my skills
 - 📫 How to reach me nnilviaa@gmail.com
 
